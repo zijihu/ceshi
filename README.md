@@ -1,3 +1,3 @@
 # ceshi
 qiangji
-[Segment Anything](https://www.autodl.com/console/instance/list).
+[autodl](https://www.autodl.com/console/instance/list).
